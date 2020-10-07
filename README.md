@@ -4,7 +4,7 @@
 ### It records score for two teams. 
 - On clicking "+3 points" , it adds 3 to the score of team.
 - On clicking "+2 points" , it adds 2 to the score of team.
-- On clicking "free Throw" , it gives 1 point of free throw.
+- On clicking "Free Throw" , it gives 1 point of free throw.
 
 ### We can reset Score using "Reset" button.
 
