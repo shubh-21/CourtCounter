@@ -1,6 +1,6 @@
 # CourtCounter
 
-## This is just an Simple App. Built using Android Studio and Java.
+## This is just a Simple App. Built using Android Studio and Java.
 ### It records score for two teams. 
 - On clicking "+3 points" , it adds 3 to the score of team.
 - On clicking "+2 points" , it adds 2 to the score of team.
